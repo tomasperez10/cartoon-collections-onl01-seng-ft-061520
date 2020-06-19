@@ -33,6 +33,8 @@ def find_the_cheese(array)# code an argument here
   
   if array.include?("cheddar") || array.include?("gouda") || array.include?("camembert")
     return
+  else
+    return false
   
   
   
