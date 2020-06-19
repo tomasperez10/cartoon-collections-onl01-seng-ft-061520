@@ -10,6 +10,14 @@ end
 
 def summon_captain_planet(array)# code an argument here
   # Your code here
+  
+  i = 1
+  
+  collection = []
+  
+  array.collect do | plan |
+    
+  
 end
 
 def long_planeteer_calls# code an argument here
