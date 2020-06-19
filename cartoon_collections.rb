@@ -16,7 +16,7 @@ def summon_captain_planet(array)# code an argument here
   collection = []
   
   array.collect do | plan |
-    
+    collection.capitalize + "!"
   
 end
 
