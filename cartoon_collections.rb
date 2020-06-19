@@ -2,7 +2,7 @@ def roll_call_dwarves(array)# code an argument here
   # Your code here
   i = 0
   
-  array.collect do | dwarves |
+  array.collect do | dwarf |
   
   
 end
