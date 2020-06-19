@@ -11,7 +11,7 @@ end
 def summon_captain_planet(array)# code an argument here
   # Your code here
   
-  i = 1
+  i = 0
   
   collection = []
   
