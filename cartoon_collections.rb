@@ -11,8 +11,6 @@ end
 def summon_captain_planet(array)# code an argument here
   # Your code here
   
-  i = 0
-  
   array.collect do | plan |
     "#{plan.capitalize}!"
   end
